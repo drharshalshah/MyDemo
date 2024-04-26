@@ -3,7 +3,7 @@
   2. Relearn
   3. Earn
   4. Test
-## Thanks for understandings
+# Thanks for understandings
 + Try
 + Test
 + Validate
